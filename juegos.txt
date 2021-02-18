@@ -9,5 +9,14 @@ street F
 mortal k
 sega 
 
+<<<<<<< HEAD
 por soccer 
 nba 
+=======
+juego matematicas
+juego lengua 
+
+juego ingles
+juego informatica
+
+>>>>>>> infantil
