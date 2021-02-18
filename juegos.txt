@@ -12,3 +12,6 @@ sega
 juego matematicas
 juego lengua 
 
+juego ingles
+juego informatica
+
